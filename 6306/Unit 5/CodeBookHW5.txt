@@ -1,0 +1,26 @@
+#####CODEBOOK UNIT 5 HOMEWORK####
+All information contained in the CMorgan_Livesession5assignment files
+
+#df
+dataframe that takes in yob2016 text file and prepares it
+
+#i
+position of bad data in dataframe df
+
+#j
+name of bad data in dataframe df
+
+#y2016
+dataframe of completed version of df with bad data removed
+
+#y2015
+dataframe imported from yob2015
+
+#final
+merged dataframe from datframes y2015 & y2016
+
+#z
+placeholder value for all male rows used to eliminate male rows in final dataframe
+
+#export
+datframe identical to completed final with only name and total for female names only
